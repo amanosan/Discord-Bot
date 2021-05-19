@@ -22,13 +22,3 @@ def mods_or_owner():
         commands.has_role('moderator')
         )
     return commands.check(predicate)
-
-async def get_momma_joke():
-    path = r'C:\Users\AMAN OSSAN\Documents\Python\Projects\Discord Bot\data\jokes.json'
-    with open(path, encoding='utf-8') as file:
-        jokes = json.load(file)
-
-    random_category = random.choice(list(jokes.keys()))
-    insult = random.choice(list(jokes[random_category]))
-
-    return insult

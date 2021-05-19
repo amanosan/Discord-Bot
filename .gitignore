@@ -1,2 +1,4 @@
 .env
 cogs/nsfw.py
+cogs/__pycache__
+.vscode
