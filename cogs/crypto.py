@@ -119,7 +119,7 @@ class Crypto(commands.Cog):
                 )
                 embed.add_field(
                     name="Description",
-                    value=f"""html {crypto_description}""", inline=False
+                    value=crypto_description, inline=False
                 )
                 await ctx.send(embed=embed)
             except Exception as e:
