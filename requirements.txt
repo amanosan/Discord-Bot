@@ -20,6 +20,7 @@ praw==7.1.0
 prawcore==1.5.0
 psutil==5.8.0
 pycodestyle==2.7.0
+pycoingecko==2.0.0
 pyparsing==2.4.7
 python-dateutil==2.8.1
 python-dotenv==0.14.0
