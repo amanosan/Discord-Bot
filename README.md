@@ -2,8 +2,6 @@
 
 **_A multi purpose Discord Bot using discord.py and multiple APIs and Libraries._**
 
-## To join the server: [Click Here](https://discord.gg/G96TUGMfTv)
-
 ## Features of LunaBot:
 
 - Admin:
