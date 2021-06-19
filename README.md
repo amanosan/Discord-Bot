@@ -44,3 +44,5 @@
   - stockSymbol: Search for Symbol of Companies.
 
 **In .sample_env, there is all the information about the API keys.**
+## License 
+<p align="center"><img width=35% src="https://media.giphy.com/media/xUPGcJGy8I928yIlAQ/giphy.gif"></p>
