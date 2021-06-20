@@ -43,4 +43,21 @@
   - stockSummary: Brief Summary of Stocks
   - stockSymbol: Search for Symbol of Companies.
 
-**In .sample_env, there is all the information about the API keys.**
+**In sample_env, there is all the information about the API keys.**
+<hr>
+
+## :paperclip: Open Source Programs :computer::computer:
+
+### This project is a part of following Open Source Program
+<br>
+
+<table style= "width:80%; border:orange;border-radius:15px; border-style:solid;">
+    <tr>
+  <td>
+ <center>
+  <a href="https://letsgrowmore.in/projects/"><img src="https://letsgrowmore.in/wp-content/uploads/2021/05/cropped-growmore-removebg-preview.png"></img></a>
+  </center>
+  </td>
+  </tr>
+</table>
+
